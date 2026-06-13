@@ -210,3 +210,5 @@ export const DEALS: Deal[] = [
     isNew: false 
   },
 ];
+
+// Data: mock student deal data

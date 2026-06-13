@@ -106,3 +106,7 @@ This log records the development history and incremental updates.
   - **Message**: docs: document Category interface properties in types.ts
   - **Details**: // Category interface defines hero carousel items
 
+- **Commit #27** (2026-06-13T19:01:34.192Z)
+  - **Message**: docs: document mock data array structure in data.ts
+  - **Details**: // Data: mock student deal data
+
