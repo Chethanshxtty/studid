@@ -242,3 +242,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Centered descriptions and multiline text clips
 
 // Centered badges and code action triggers
+
+// Adjusted hover border transitions
