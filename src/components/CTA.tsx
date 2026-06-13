@@ -118,3 +118,5 @@ export const CTA: React.FC = () => {
 // Centered headers and forms
 
 // Success check color tuning
+
+// Custom absolute layout for toast alerts
