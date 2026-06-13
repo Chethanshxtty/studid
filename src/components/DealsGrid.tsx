@@ -250,3 +250,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Reduced hover translateY spacing
 
 // Clipboard checks updated
+
+// Optimizations in copy fallback elements
