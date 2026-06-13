@@ -226,3 +226,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Verified grid component imports
 
 // Borderless layout specifications
+
+// Cards use flat solid bg colors
