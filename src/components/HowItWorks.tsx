@@ -89,3 +89,5 @@ export const HowItWorks: React.FC = () => {
 // Normalized svg icon sizes
 
 // Custom text shadows on numeric labels
+
+// Adjusted line-height on text content

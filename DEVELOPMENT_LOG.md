@@ -154,3 +154,7 @@ This log records the development history and incremental updates.
   - **Message**: style: update step numbers styling in how it works section
   - **Details**: // Custom text shadows on numeric labels
 
+- **Commit #39** (2026-06-13T19:01:38.497Z)
+  - **Message**: style: refine how it works steps descriptions
+  - **Details**: // Adjusted line-height on text content
+
