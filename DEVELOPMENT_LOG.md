@@ -310,3 +310,7 @@ This log records the development history and incremental updates.
   - **Message**: docs: update build steps in README.md
   - **Details**: <!-- Build scripts updated in README -->
 
+- **Commit #78** (2026-06-13T19:01:53.128Z)
+  - **Message**: docs: add design tokens reference to DEVELOPMENT_LOG.md
+  - **Details**: Added CSS variables references to log.
+
