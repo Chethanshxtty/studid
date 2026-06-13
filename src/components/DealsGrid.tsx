@@ -234,3 +234,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Centered brand initials avatar container
 
 // Centered new tags below avatar column
+
+// Centered text tags for discount values
