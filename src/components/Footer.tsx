@@ -46,3 +46,5 @@ export const Footer: React.FC = () => {
     </footer>
   );
 };
+
+// Footer Component: Branding and links
