@@ -108,3 +108,5 @@ export const CTA: React.FC = () => {
     </section>
   );
 };
+
+// CTA Component: Student access newsletter sign-up
