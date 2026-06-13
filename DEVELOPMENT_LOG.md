@@ -54,3 +54,7 @@ This log records the development history and incremental updates.
   - **Message**: refactor: clean unused imports in Hero.tsx
   - **Details**: // Verified component imports
 
+- **Commit #14** (2026-06-13T19:01:29.773Z)
+  - **Message**: refactor: clean unused imports in HowItWorks.tsx
+  - **Details**: // Cleaned structural comments
+
