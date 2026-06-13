@@ -230,3 +230,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Cards use flat solid bg colors
 
 // Styled surface colors to #1A1A1C
+
+// Centered brand initials avatar container
