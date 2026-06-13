@@ -121,3 +121,5 @@ export const StatsBanner: React.FC = () => {
 };
 
 // StatsBanner Component: Stats indicators
+
+// Cleaned unused icon assets
