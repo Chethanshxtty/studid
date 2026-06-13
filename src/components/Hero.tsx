@@ -308,3 +308,5 @@ export const Hero: React.FC<HeroProps> = ({ onViewDeals, onExploreAll }) => {
 // Adjusted carousel animation parameters
 
 // Tuned glow radial gradient blobs
+
+// Updated glassmorphic card classes
