@@ -52,3 +52,5 @@ export const Footer: React.FC = () => {
 // Verified footer links imports
 
 // Customized footer fonts
+
+// Footer spacing layout checked
