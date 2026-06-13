@@ -316,3 +316,5 @@ export const Hero: React.FC<HeroProps> = ({ onViewDeals, onExploreAll }) => {
 // Refined control button transitions
 
 // Optimized hover transitions on inline text links
+
+// Viewport bounds listeners verified
