@@ -244,3 +244,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Centered badges and code action triggers
 
 // Adjusted hover border transitions
+
+// Shadow properties updated on card select

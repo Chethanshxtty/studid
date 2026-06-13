@@ -198,3 +198,7 @@ This log records the development history and incremental updates.
   - **Message**: style: refine copy button border hover colors
   - **Details**: // Adjusted hover border transitions
 
+- **Commit #50** (2026-06-13T19:01:42.579Z)
+  - **Message**: style: adjust coupon card hover shadow offset
+  - **Details**: // Shadow properties updated on card select
+
