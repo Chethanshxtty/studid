@@ -224,3 +224,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // DealsGrid Component: Categorized grid displays
 
 // Verified grid component imports
+
+// Borderless layout specifications
