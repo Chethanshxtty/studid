@@ -1,0 +1,150 @@
+@import "tailwindcss";
+
+:root {
+  --center-width: 240px;
+  --side-width: 150px;
+  --left-pos: 10%;
+  --right-pos: 90%;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --center-width: 300px;
+    --side-width: 200px;
+    --left-pos: 16%;
+    --right-pos: 84%;
+  }
+}
+
+@theme {
+  --font-anton: "Anton", sans-serif;
+  --font-inter: "Inter", sans-serif;
+
+  --color-brand-primary: #7C3AED;
+  --color-brand-secondary: #FF6B6B;
+  --color-brand-surface: #1A1A1C;
+  --color-brand-border: rgba(255, 255, 255, 0.08);
+  --color-brand-muted: #6B7280;
+}
+
+/* GLOBAL STYLES */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #0A0A0B;
+  font-family: 'Inter', sans-serif;
+  color: white;
+  overflow-x: hidden;
+}
+
+/* Hide scrollbars but keep functionality */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Redesigned Card Classes */
+.deal-card-border {
+  border: 6px solid transparent;
+  border-radius: 28px;
+  background-clip: padding-box, border-box;
+  background-origin: border-box;
+}
+
+/* Glass Card helper styles */
+.glass-card-center {
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1.5px solid rgba(255, 255, 255, 0.15);
+  border-radius: 36px;
+}
+
+.glass-card-side {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 36px;
+}
+
+/* Shimmer Text Effect */
+.shimmer-text {
+  background: linear-gradient(90deg, #ffffff 0%, rgba(255, 255, 255, 0.6) 50%, #ffffff 100%);
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: background-position 0.6s ease;
+}
+
+.shimmer-text:hover {
+  background-position: 0 0;
+}
+
+/* Intersection Observer Transitions */
+.reveal-item {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: opacity 600ms cubic-bezier(0.16, 1, 0.3, 1), transform 600ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal-item.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* KEYFRAME ANIMATIONS */
+@keyframes floatCard {
+  0%, 100% {
+    transform: translateX(-50%) translateY(0px) scale(1.08);
+  }
+  50% {
+    transform: translateX(-50%) translateY(-18px) scale(1.08);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    opacity: 0.4;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-float-card {
+  animation: floatCard 4s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulseGlow 3s ease-in-out infinite;
+}
+
+/* Center orphaned last card in grid */
+.deal-grid > *:last-child:nth-child(3n+1) {
+  grid-column: 2 / 3;
+}
