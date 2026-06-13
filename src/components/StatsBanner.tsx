@@ -127,3 +127,5 @@ export const StatsBanner: React.FC = () => {
 // Padded banner wrappers
 
 // Centered stat elements
+
+// Micro-animations on hover
