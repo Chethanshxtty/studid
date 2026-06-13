@@ -83,3 +83,5 @@ export const HowItWorks: React.FC = () => {
 // HowItWorks Component: Visual workflow steps
 
 // Cleaned structural comments
+
+// Refined flex columns grid settings

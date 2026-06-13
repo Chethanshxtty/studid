@@ -142,3 +142,7 @@ This log records the development history and incremental updates.
   - **Message**: style: adjust explore all arrow hover transition speed
   - **Details**: // Optimized hover transitions on inline text links
 
+- **Commit #36** (2026-06-13T19:01:37.494Z)
+  - **Message**: style: refine how it works cards layout alignment
+  - **Details**: // Refined flex columns grid settings
+
