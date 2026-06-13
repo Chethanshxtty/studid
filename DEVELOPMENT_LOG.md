@@ -90,3 +90,7 @@ This log records the development history and incremental updates.
   - **Message**: style: document floating animation keyframes in index.css
   - **Details**: /* Float and pulse animation classes */
 
+- **Commit #23** (2026-06-13T19:01:32.821Z)
+  - **Message**: style: document reveal animations in index.css
+  - **Details**: /* Viewport enter transition classes */
+
