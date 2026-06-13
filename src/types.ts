@@ -18,3 +18,5 @@ export interface Deal {
   gradient: string;
   isNew: boolean;
 }
+
+// Deal interface defines structure of a coupon item

@@ -98,3 +98,7 @@ This log records the development history and incremental updates.
   - **Message**: style: refine margin and alignment layout rules
   - **Details**: /* Refined margins and grid padding guidelines */
 
+- **Commit #25** (2026-06-13T19:01:33.517Z)
+  - **Message**: docs: document Deal interface properties in types.ts
+  - **Details**: // Deal interface defines structure of a coupon item
+
