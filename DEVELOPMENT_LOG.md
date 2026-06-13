@@ -218,3 +218,7 @@ This log records the development history and incremental updates.
   - **Message**: fix: ensure IntersectionObserver re-observes newly filtered cards
   - **Details**: // Bind scroll animations to remounted card rows
 
+- **Commit #55** (2026-06-13T19:01:44.296Z)
+  - **Message**: fix: prevent scroll-reveal elements from staying invisible
+  - **Details**: // Solved zero-opacity card filter bug
+

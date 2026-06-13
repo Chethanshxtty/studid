@@ -87,3 +87,5 @@ export default App;
 // Added activeCategory to dependency
 
 // Bind scroll animations to remounted card rows
+
+// Solved zero-opacity card filter bug
