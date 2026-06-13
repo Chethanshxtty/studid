@@ -186,3 +186,7 @@ This log records the development history and incremental updates.
   - **Message**: style: center brand subtitle text in deal cards
   - **Details**: // Centered text labels for brand names
 
+- **Commit #47** (2026-06-13T19:01:41.506Z)
+  - **Message**: style: center short description text in deal cards
+  - **Details**: // Centered descriptions and multiline text clips
+

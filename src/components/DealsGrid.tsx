@@ -238,3 +238,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Centered text tags for discount values
 
 // Centered text labels for brand names
+
+// Centered descriptions and multiline text clips
