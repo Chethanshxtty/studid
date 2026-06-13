@@ -102,3 +102,7 @@ This log records the development history and incremental updates.
   - **Message**: docs: document Deal interface properties in types.ts
   - **Details**: // Deal interface defines structure of a coupon item
 
+- **Commit #26** (2026-06-13T19:01:33.854Z)
+  - **Message**: docs: document Category interface properties in types.ts
+  - **Details**: // Category interface defines hero carousel items
+

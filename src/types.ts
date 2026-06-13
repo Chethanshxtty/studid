@@ -20,3 +20,5 @@ export interface Deal {
 }
 
 // Deal interface defines structure of a coupon item
+
+// Category interface defines hero carousel items
