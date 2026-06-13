@@ -252,3 +252,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Clipboard checks updated
 
 // Optimizations in copy fallback elements
+
+// Focused input selection checked
