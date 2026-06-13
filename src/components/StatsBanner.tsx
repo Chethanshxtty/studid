@@ -125,3 +125,5 @@ export const StatsBanner: React.FC = () => {
 // Cleaned unused icon assets
 
 // Padded banner wrappers
+
+// Centered stat elements
