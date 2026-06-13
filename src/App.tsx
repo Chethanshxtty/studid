@@ -79,3 +79,5 @@ function App() {
 }
 
 export default App;
+
+// App Component: Main container for STUDID
