@@ -246,3 +246,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Adjusted hover border transitions
 
 // Shadow properties updated on card select
+
+// Reduced hover translateY spacing

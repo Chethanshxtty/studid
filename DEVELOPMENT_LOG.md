@@ -202,3 +202,7 @@ This log records the development history and incremental updates.
   - **Message**: style: adjust coupon card hover shadow offset
   - **Details**: // Shadow properties updated on card select
 
+- **Commit #51** (2026-06-13T19:01:42.926Z)
+  - **Message**: style: adjust coupon card hover translation scale
+  - **Details**: // Reduced hover translateY spacing
+
