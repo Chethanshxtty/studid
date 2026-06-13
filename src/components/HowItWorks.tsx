@@ -79,3 +79,5 @@ export const HowItWorks: React.FC = () => {
     </section>
   );
 };
+
+// HowItWorks Component: Visual workflow steps

@@ -26,3 +26,7 @@ This log records the development history and incremental updates.
   - **Message**: docs: document Hero component layout structure
   - **Details**: // Hero Component: Floating carousel & display
 
+- **Commit #7** (2026-06-13T19:01:27.327Z)
+  - **Message**: docs: document HowItWorks component layout structure
+  - **Details**: // HowItWorks Component: Visual workflow steps
+
