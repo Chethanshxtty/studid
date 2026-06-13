@@ -174,3 +174,7 @@ This log records the development history and incremental updates.
   - **Message**: style: center avatar icon inside deal cards
   - **Details**: // Centered brand initials avatar container
 
+- **Commit #44** (2026-06-13T19:01:40.350Z)
+  - **Message**: style: center new badge below avatar in deal cards
+  - **Details**: // Centered new tags below avatar column
+

@@ -232,3 +232,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Styled surface colors to #1A1A1C
 
 // Centered brand initials avatar container
+
+// Centered new tags below avatar column
