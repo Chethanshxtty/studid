@@ -82,3 +82,7 @@ This log records the development history and incremental updates.
   - **Message**: style: document global layout styles in index.css
   - **Details**: /* Global element resets and typography rules */
 
+- **Commit #21** (2026-06-13T19:01:32.154Z)
+  - **Message**: style: document glassmorphic helper styles in index.css
+  - **Details**: /* Glassmorphism styling utilities */
+
