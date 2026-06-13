@@ -85,3 +85,5 @@ export default App;
 // Cleaned unused imports
 
 // Added activeCategory to dependency
+
+// Bind scroll animations to remounted card rows

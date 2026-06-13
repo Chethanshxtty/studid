@@ -214,3 +214,7 @@ This log records the development history and incremental updates.
   - **Message**: fix: add activeCategory to App.tsx useEffect dependency array
   - **Details**: // Added activeCategory to dependency
 
+- **Commit #54** (2026-06-13T19:01:43.959Z)
+  - **Message**: fix: ensure IntersectionObserver re-observes newly filtered cards
+  - **Details**: // Bind scroll animations to remounted card rows
+
