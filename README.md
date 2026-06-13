@@ -75,3 +75,5 @@ export default defineConfig([
 <!-- Troubleshooting guide updated -->
 
 <!-- Browser compatibility specifications added -->
+
+<!-- License info update -->

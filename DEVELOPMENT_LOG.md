@@ -298,3 +298,7 @@ This log records the development history and incremental updates.
   - **Message**: docs: add browser support notes to README.md
   - **Details**: <!-- Browser compatibility specifications added -->
 
+- **Commit #75** (2026-06-13T19:01:52.125Z)
+  - **Message**: docs: add licensing description to README.md
+  - **Details**: <!-- License info update -->
+
