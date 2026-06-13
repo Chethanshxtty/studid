@@ -294,3 +294,7 @@ This log records the development history and incremental updates.
   - **Message**: docs: update troubleshooting guide in README.md
   - **Details**: <!-- Troubleshooting guide updated -->
 
+- **Commit #74** (2026-06-13T19:01:51.795Z)
+  - **Message**: docs: add browser support notes to README.md
+  - **Details**: <!-- Browser compatibility specifications added -->
+
