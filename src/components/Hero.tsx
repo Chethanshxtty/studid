@@ -304,3 +304,5 @@ export const Hero: React.FC<HeroProps> = ({ onViewDeals, onExploreAll }) => {
 // Aligned background display typography
 
 // Enhanced logo text styling
+
+// Adjusted carousel animation parameters
