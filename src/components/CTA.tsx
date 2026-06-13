@@ -116,3 +116,5 @@ export const CTA: React.FC = () => {
 // Borderless design settings
 
 // Centered headers and forms
+
+// Success check color tuning
