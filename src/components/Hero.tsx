@@ -302,3 +302,5 @@ export const Hero: React.FC<HeroProps> = ({ onViewDeals, onExploreAll }) => {
 // Verified component imports
 
 // Aligned background display typography
+
+// Enhanced logo text styling

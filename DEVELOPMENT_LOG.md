@@ -114,3 +114,7 @@ This log records the development history and incremental updates.
   - **Message**: style: align hero display text and ghost headers
   - **Details**: // Aligned background display typography
 
+- **Commit #29** (2026-06-13T19:01:35.072Z)
+  - **Message**: style: update hero brand text shadow variables
+  - **Details**: // Enhanced logo text styling
+
