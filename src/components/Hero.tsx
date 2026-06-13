@@ -296,3 +296,5 @@ export const Hero: React.FC<HeroProps> = ({ onViewDeals, onExploreAll }) => {
     </div>
   );
 };
+
+// Hero Component: Floating carousel & display
