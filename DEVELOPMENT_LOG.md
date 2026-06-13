@@ -134,3 +134,7 @@ This log records the development history and incremental updates.
   - **Message**: style: optimize carousel navigation controls positioning
   - **Details**: // Aligned next/prev buttons relative to layout
 
+- **Commit #34** (2026-06-13T19:01:36.788Z)
+  - **Message**: style: update carousel prev/next buttons hover states
+  - **Details**: // Refined control button transitions
+

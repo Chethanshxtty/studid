@@ -312,3 +312,5 @@ export const Hero: React.FC<HeroProps> = ({ onViewDeals, onExploreAll }) => {
 // Updated glassmorphic card classes
 
 // Aligned next/prev buttons relative to layout
+
+// Refined control button transitions
