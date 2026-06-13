@@ -310,3 +310,5 @@ export const Hero: React.FC<HeroProps> = ({ onViewDeals, onExploreAll }) => {
 // Tuned glow radial gradient blobs
 
 // Updated glassmorphic card classes
+
+// Aligned next/prev buttons relative to layout
