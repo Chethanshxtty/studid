@@ -148,3 +148,5 @@ html {
 .deal-grid > *:last-child:nth-child(3n+1) {
   grid-column: 2 / 3;
 }
+
+/* CSS Variable configurations */
