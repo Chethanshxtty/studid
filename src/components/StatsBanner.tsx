@@ -119,3 +119,5 @@ export const StatsBanner: React.FC = () => {
     </section>
   );
 };
+
+// StatsBanner Component: Stats indicators
