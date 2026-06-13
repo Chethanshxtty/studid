@@ -166,3 +166,7 @@ This log records the development history and incremental updates.
   - **Message**: style: remove borders from deal cards inside grid
   - **Details**: // Cards use flat solid bg colors
 
+- **Commit #42** (2026-06-13T19:01:39.588Z)
+  - **Message**: style: set deal cards solid background color to #1A1A1C
+  - **Details**: // Styled surface colors to #1A1A1C
+
