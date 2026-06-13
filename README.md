@@ -77,3 +77,5 @@ export default defineConfig([
 <!-- Browser compatibility specifications added -->
 
 <!-- License info update -->
+
+<!-- Project structure definitions added -->

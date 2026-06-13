@@ -302,3 +302,7 @@ This log records the development history and incremental updates.
   - **Message**: docs: add licensing description to README.md
   - **Details**: <!-- License info update -->
 
+- **Commit #76** (2026-06-13T19:01:52.476Z)
+  - **Message**: docs: document repository structure guidelines
+  - **Details**: <!-- Project structure definitions added -->
+
