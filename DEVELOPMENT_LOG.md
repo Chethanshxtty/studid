@@ -138,3 +138,7 @@ This log records the development history and incremental updates.
   - **Message**: style: update carousel prev/next buttons hover states
   - **Details**: // Refined control button transitions
 
+- **Commit #35** (2026-06-13T19:01:37.137Z)
+  - **Message**: style: adjust explore all arrow hover transition speed
+  - **Details**: // Optimized hover transitions on inline text links
+

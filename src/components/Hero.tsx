@@ -314,3 +314,5 @@ export const Hero: React.FC<HeroProps> = ({ onViewDeals, onExploreAll }) => {
 // Aligned next/prev buttons relative to layout
 
 // Refined control button transitions
+
+// Optimized hover transitions on inline text links
