@@ -14,3 +14,7 @@ This log records the development history and incremental updates.
   - **Message**: refactor: optimize fonts preconnect in HTML head
   - **Details**: <!-- Optimized preconnect tags -->
 
+- **Commit #4** (2026-06-13T19:01:26.296Z)
+  - **Message**: style: adjust font weight imports in index.html
+  - **Details**: <!-- Adjusted Anton and Inter imports -->
+
