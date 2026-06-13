@@ -78,3 +78,7 @@ This log records the development history and incremental updates.
   - **Message**: style: document CSS theme variables in index.css
   - **Details**: /* CSS Variable configurations */
 
+- **Commit #20** (2026-06-13T19:01:31.811Z)
+  - **Message**: style: document global layout styles in index.css
+  - **Details**: /* Global element resets and typography rules */
+
