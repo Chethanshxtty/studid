@@ -306,3 +306,7 @@ This log records the development history and incremental updates.
   - **Message**: docs: document repository structure guidelines
   - **Details**: <!-- Project structure definitions added -->
 
+- **Commit #77** (2026-06-13T19:01:52.801Z)
+  - **Message**: docs: update build steps in README.md
+  - **Details**: <!-- Build scripts updated in README -->
+

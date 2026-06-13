@@ -79,3 +79,5 @@ export default defineConfig([
 <!-- License info update -->
 
 <!-- Project structure definitions added -->
+
+<!-- Build scripts updated in README -->
