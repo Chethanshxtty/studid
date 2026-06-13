@@ -87,3 +87,5 @@ export const HowItWorks: React.FC = () => {
 // Refined flex columns grid settings
 
 // Normalized svg icon sizes
+
+// Custom text shadows on numeric labels

@@ -150,3 +150,7 @@ This log records the development history and incremental updates.
   - **Message**: style: optimize step icons sizing in how it works section
   - **Details**: // Normalized svg icon sizes
 
+- **Commit #38** (2026-06-13T19:01:38.165Z)
+  - **Message**: style: update step numbers styling in how it works section
+  - **Details**: // Custom text shadows on numeric labels
+
