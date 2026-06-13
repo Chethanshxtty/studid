@@ -30,3 +30,7 @@ This log records the development history and incremental updates.
   - **Message**: docs: document HowItWorks component layout structure
   - **Details**: // HowItWorks Component: Visual workflow steps
 
+- **Commit #8** (2026-06-13T19:01:27.693Z)
+  - **Message**: docs: document DealsGrid component layout structure
+  - **Details**: // DealsGrid Component: Categorized grid displays
+

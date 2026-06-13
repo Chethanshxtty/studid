@@ -220,3 +220,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
     </section>
   );
 };
+
+// DealsGrid Component: Categorized grid displays
