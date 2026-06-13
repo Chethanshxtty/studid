@@ -290,3 +290,7 @@ This log records the development history and incremental updates.
   - **Message**: style: adjust scroll margin top for section targets
   - **Details**: /* Smooth scroll alignment adjustments */
 
+- **Commit #73** (2026-06-13T19:01:51.471Z)
+  - **Message**: docs: update troubleshooting guide in README.md
+  - **Details**: <!-- Troubleshooting guide updated -->
+
