@@ -282,3 +282,7 @@ This log records the development history and incremental updates.
   - **Message**: refactor: extract constants from Hero component
   - **Details**: // Refactored visual constants
 
+- **Commit #71** (2026-06-13T19:01:50.609Z)
+  - **Message**: refactor: extract constants from DealsGrid component
+  - **Details**: // Extracted category filter lists
+

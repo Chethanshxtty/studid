@@ -254,3 +254,5 @@ export const DealsGrid: React.FC<DealsGridProps> = ({ activeCategory, setActiveC
 // Optimizations in copy fallback elements
 
 // Focused input selection checked
+
+// Extracted category filter lists
