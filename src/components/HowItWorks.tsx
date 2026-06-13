@@ -85,3 +85,5 @@ export const HowItWorks: React.FC = () => {
 // Cleaned structural comments
 
 // Refined flex columns grid settings
+
+// Normalized svg icon sizes

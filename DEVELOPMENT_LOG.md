@@ -146,3 +146,7 @@ This log records the development history and incremental updates.
   - **Message**: style: refine how it works cards layout alignment
   - **Details**: // Refined flex columns grid settings
 
+- **Commit #37** (2026-06-13T19:01:37.842Z)
+  - **Message**: style: optimize step icons sizing in how it works section
+  - **Details**: // Normalized svg icon sizes
+
