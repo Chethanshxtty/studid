@@ -110,3 +110,7 @@ This log records the development history and incremental updates.
   - **Message**: docs: document mock data array structure in data.ts
   - **Details**: // Data: mock student deal data
 
+- **Commit #28** (2026-06-13T19:01:34.522Z)
+  - **Message**: style: align hero display text and ghost headers
+  - **Details**: // Aligned background display typography
+

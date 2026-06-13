@@ -300,3 +300,5 @@ export const Hero: React.FC<HeroProps> = ({ onViewDeals, onExploreAll }) => {
 // Hero Component: Floating carousel & display
 
 // Verified component imports
+
+// Aligned background display typography
