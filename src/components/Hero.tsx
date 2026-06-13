@@ -306,3 +306,5 @@ export const Hero: React.FC<HeroProps> = ({ onViewDeals, onExploreAll }) => {
 // Enhanced logo text styling
 
 // Adjusted carousel animation parameters
+
+// Tuned glow radial gradient blobs
