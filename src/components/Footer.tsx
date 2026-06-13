@@ -50,3 +50,5 @@ export const Footer: React.FC = () => {
 // Footer Component: Branding and links
 
 // Verified footer links imports
+
+// Customized footer fonts
