@@ -114,3 +114,5 @@ export const CTA: React.FC = () => {
 // Cleaned email input imports
 
 // Borderless design settings
+
+// Centered headers and forms
